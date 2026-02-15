@@ -1,4 +1,4 @@
-# 📅 Professional Age Calculator (Termux Python)
+# 📅 Professional Age Calculator (Python)
 
 A smart, logic-based Age Calculator written in **Python**. This tool calculates your exact age in **Years, Months, and Days** by comparing the current date with your birthdate.
 
